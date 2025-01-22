@@ -1,2 +1,3 @@
 # sql
-Some sql query
+Some sql query that is learn in 1st semester
+
